@@ -82,6 +82,3 @@ if __name__ == "__main__":
         print("Please specify an action: --store, --test, or --info")
         parser.print_help()
         
-"""
-security find-generic-password -l "MyMCPServer" -a "api_key" -g
-"""
